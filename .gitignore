@@ -1,0 +1,22 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# CUDA build files
+*.cubin
+*.ptx
+*.fatbin
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
